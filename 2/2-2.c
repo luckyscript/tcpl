@@ -1,8 +1,10 @@
+#include <stdio.h>
 int
 main() {
     
     int bool = 1;
     int i,lim;
+    int c;
     while (1) {
         if(!(i<lim-1)) {
             bool = 0;
