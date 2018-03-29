@@ -1,3 +1,4 @@
+#include <stdio.h>
 int
 getint(int *p) {
     int c;
